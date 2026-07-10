@@ -11,3 +11,8 @@ A Python tool to backup running configurations from multiple Cisco devices simul
 ## Requirements
 - Python 3.8 or higher
 - `cisco_config_backup_source.xlsx` file in the project root
+
+---
+
+**Made by Sina Sayadi**  
+Network Engineering & SDN Lab
